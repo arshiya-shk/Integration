@@ -8,7 +8,7 @@ metadata:
     - title: GitHub Repository
       url: https://github.com/arshiya-shk/integration
   annotations:
-    github.com/project-slug: arshiya-shk/integration
+    github.com/project-slug: github.com/project-slug: arshiya-shk/integration 
 spec:
   type: service
   owner: Integration Team
