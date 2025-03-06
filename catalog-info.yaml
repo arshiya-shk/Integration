@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: integration
+  description: |
+    Integration is an application that connects multiple services and systems.
+  links:
+    - title: GitHub Repository
+      url: https://github.com/arshiya-shk/integration
+  annotations:
+    github.com/project-slug: arshiya-shk/integration
+spec:
+  type: service
+  owner: Integration Team
+  lifecycle: production
